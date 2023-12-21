@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ed1ca5db4776311007046285d36d43aa" label="Accounts" max_length="40" name="x_1047617_burst_0_accounts" type="collection">
+        <element label="country" max_length="40" name="country" type="string"/>
+        <element label="email" max_length="40" name="email" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

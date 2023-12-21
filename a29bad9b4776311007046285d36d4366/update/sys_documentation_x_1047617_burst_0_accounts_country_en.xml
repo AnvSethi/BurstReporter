@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="country" label="country" language="en" table="x_1047617_burst_0_accounts">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <help/>
+            <hint/>
+            <label>country</label>
+            <language>en</language>
+            <name>x_1047617_burst_0_accounts</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-04 11:23:20</sys_created_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>country</sys_name>
+            <sys_package display_value="Burst Reporter" source="x_1047617_burst_0">a29bad9b4776311007046285d36d4366</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Burst Reporter">a29bad9b4776311007046285d36d4366</sys_scope>
+            <sys_update_name>sys_documentation_x_1047617_burst_0_accounts_country_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-04 11:23:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
